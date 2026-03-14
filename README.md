@@ -25,7 +25,8 @@ It also manages the relationships between them using mapping tables:
 
 ## Project Structure
 
-   modular_entity_mapping_system/
+```
+modular_entity_mapping_system/
 │
 ├── manage.py
 ├── requirements.txt
@@ -91,6 +92,7 @@ It also manages the relationships between them using mapping tables:
     ├── views.py
     ├── urls.py
     └── admin.py
+```
 
 Each app contains:
 
